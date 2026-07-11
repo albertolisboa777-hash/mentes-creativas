@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Mentes que Crean">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7d57a"/>
+      <stop offset="0.5" stop-color="#c9952d"/>
+      <stop offset="1" stop-color="#8f6417"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0d12"/>
+      <stop offset="1" stop-color="#263141"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="#fffaf0"/>
+  <path d="M146 250c0-68 51-123 115-123 56 0 102 41 112 96 6 33-2 65-19 90-15 22-22 43-22 70v14H202v-11c0-28-8-50-25-72-20-27-31-49-31-64Z" fill="url(#ink)"/>
+  <path d="M190 257c20-16 40-20 61-12 19 8 34 22 61 18 18-3 34-14 47-31" fill="none" stroke="url(#gold)" stroke-width="18" stroke-linecap="round"/>
+  <path d="M258 155v220M218 214c25 5 39 21 42 48M303 196c-28 9-42 29-44 66M230 298c18-3 31-13 41-30M296 300c-20-4-33-15-41-32" fill="none" stroke="url(#gold)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M91 245a166 166 0 0 1 330 0" fill="none" stroke="url(#gold)" stroke-width="13" stroke-linecap="round" opacity=".88"/>
+  <path d="M256 45l17 47 47 17-47 17-17 47-17-47-47-17 47-17 17-47Z" fill="url(#gold)"/>
+  <text x="256" y="455" text-anchor="middle" font-family="Georgia, serif" font-size="48" font-weight="700" fill="#0a0d12" letter-spacing="6">MQC</text>
+</svg>
